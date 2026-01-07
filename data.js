@@ -21,6 +21,8 @@ module.exports = {
     milk: "✅ Safe (boiled)",
     papaya: "❌ Avoid",
     pineapple: "❌ Avoid",
+    chicken: "✅ Safe if well cooked",
+    fish: "⚠️ Avoid raw fish",
     egg: "⚠️ Only well cooked",
     tea: "⚠️ Limit",
     coffee: "⚠️ Limit",
@@ -34,7 +36,7 @@ module.exports = {
     "https://raw.githubusercontent.com/ivanstanley143/pregnancy-wa-bot/main/images/file_0000000083a47207af592c9b4c3d45c0.png",
 
   LIMIT_FOOD_IMAGE:
-    "https://raw.githubusercontent.com/ivanstanley143/pregnancy-wa-bot/main/images/limit_foods.png",
+    "https://res.cloudinary.com/drcqtmobe/image/upload/v1767795305/file_000000002d907207a5b1cf1c9165aa80_ina15s.png",
 
   BABY_IMAGES: {
     11: {
@@ -44,6 +46,18 @@ module.exports = {
     12: {
       size: "Lime 🍋",
       image: "https://raw.githubusercontent.com/ivanstanley143/pregnancy-wa-bot/main/images/file_000000002f447207bffe5ab6c0f843fc.png"
+    },
+    13: {
+      size: "Peach 🍑",
+      image: "https://res.cloudinary.com/drcqtmobe/image/upload/v1767795308/file_0000000075ec72069b52c6d13eb158cd_tzyhn9.png"
+    },
+    14: {
+      size: "Lemon 🍋",
+      image: "https://res.cloudinary.com/drcqtmobe/image/upload/v1767795301/file_00000000ae207206a91304441fc049cc_pwlqay.png"
+    },
+    15: {
+      size: "Apple 🍎",
+      image: "https://res.cloudinary.com/drcqtmobe/image/upload/v1767795302/file_00000000a2487206b0277bcf6ef2757e_pevfay.png"
     }
   },
 
