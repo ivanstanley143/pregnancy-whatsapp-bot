@@ -69,7 +69,8 @@ module.exports = {
 
   WEEKLY_DUA: {
     12: "🤲 Rabbi habli min ladunka dhurriyyatan tayyibah",
-    13: "🤲 Allahumma yassir wala tu’assir"
+    13: "🤲 Allahumma yassir wala tu’assir",
+    14: "🤲 Rabbi zidni sihhat wa quwwah"
   },
 
   APPOINTMENTS: [
